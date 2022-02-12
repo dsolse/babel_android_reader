@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/text_hightlight"
+        android:title="Hightlight" />
+    <item
+        android:id="@+id/go_deep_l"
+        android:title="Go Deepl" />
+    <item
+        android:id="@+id/go_wiki_dict"
+        android:title="Go WikiDict" />
+</menu>

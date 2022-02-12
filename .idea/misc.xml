@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/drawable/button_bg.xml" value="0.1" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/drawable/thumb_scroll.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/drawable/track_scroll.xml" value="0.175" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/activity_main_menu.xml" value="0.29555555555555557" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/activity_reader.xml" value="0.16" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/custom_bottom_nav_slider.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/custom_webview_nav_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/fragment_dictionary_words.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/fragment_grid_menu_books.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/fragment_list_chapters.xml" value="0.1" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/fragment_loading_reader.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/fragment_reader.xml" value="0.1" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/fragment_reader_corpus.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/page_viewpager.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/reader_view.xml" value="0.1" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/layout/toolbar_reader.xml" value="0.1" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/TheAdmin/AndroidStudioProjects/MyBabelReader/app/src/main/res/menu/custom_action_menu.xml" value="0.10208333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

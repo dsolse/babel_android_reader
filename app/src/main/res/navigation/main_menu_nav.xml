@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_menu_nav"
+    app:startDestination="@id/gridMenuBooks">
+
+    <fragment
+        android:id="@+id/gridMenuBooks"
+        android:name="com.example.mybabelreader.fragments.GridMenuBooks"
+        android:label="fragment_grid_menu_books"
+        tools:layout="@layout/fragment_grid_menu_books">
+        <action
+            android:id="@+id/navigate_to_dict"
+            app:destination="@id/dictionaryWords"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/dictionaryWords"
+        android:name="com.example.mybabelreader.fragments.DictionaryWords"
+        android:label="fragment_dictionary_words"
+        tools:layout="@layout/fragment_dictionary_words">
+        <action
+            android:id="@+id/navigate_to_library"
+            app:destination="@id/gridMenuBooks"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out" />
+    </fragment>
+</navigation>
